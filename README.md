@@ -40,7 +40,6 @@ PractiMatch/
 │   └── escenarios.csv           # Ofertas y vacantes simuladas de práctica (12 registros)
 ├── src/
 │   └── recomendador.py          # Lógica de filtrado, cálculo ponderado y ranking
-├── evidencias/                  # Capturas de pantalla de pruebas y validación
 ├── app.py                       # Interfaz web interactiva desarrollada en Streamlit
 ├── verificar_datos.py           # Script de validación de integridad de los archivos CSV
 ├── probar_recomendador.py       # Script de pruebas por consola para distintos perfiles
