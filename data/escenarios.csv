@@ -1,0 +1,14 @@
+
+id_escenario,empresa,cargo,area,competencias_requeridas,modalidad,ciudad,cupos,estado
+ESC001,TecnoSucre Digital,Desarrollador Web Junior,Desarrollo Web,HTML|CSS|JavaScript|React,Remoto,Sincelejo,2,Disponible
+ESC002,DataCaribe Analytics,Analista de Datos Junior,Analisis de Datos,Python|SQL|Excel|Power BI,Presencial,Sincelejo,2,Disponible
+ESC003,InnovaSoft Solutions,Desarrollador Backend Junior,Desarrollo Backend,Java|Spring Boot|SQL|Git,Hibrido,Sincelejo,1,Disponible
+ESC004,SegurNet Colombia,Auxiliar de Ciberseguridad,Ciberseguridad,Redes|Linux|Cisco|Seguridad Informatica,Presencial,Sincelejo,2,Disponible
+ESC005,IntelliCaribe AI,Asistente de Inteligencia Artificial,Inteligencia Artificial,Python|Machine Learning|SQL|Excel,Hibrido,Sincelejo,1,Disponible
+ESC006,CloudSucre Technologies,Auxiliar de Infraestructura TI,Infraestructura TI,Redes|Linux|Docker|Python,Presencial,Sincelejo,2,Disponible
+ESC007,WebNova Studio,Desarrollador Frontend,Desarrollo Web,HTML|CSS|JavaScript|Figma,Hibrido,Sincelejo,2,Disponible
+ESC008,Caribe Business Intelligence,Analista de Inteligencia de Negocios,Analisis de Datos,SQL|Power BI|Excel|Python,Remoto,Sincelejo,1,Disponible
+ESC009,SoftDev Caribe,Programador Backend,Desarrollo Backend,Java|SQL|Git|Docker,Presencial,Sincelejo,2,Disponible
+ESC010,NeuralData Lab,Asistente de Modelos Predictivos,Inteligencia Artificial,Python|Machine Learning|Power BI|SQL,Remoto,Sincelejo,1,Disponible
+ESC011,Redes del Caribe,Soporte de Redes,Infraestructura TI,Redes|Linux|Cisco|Docker,Presencial,Sincelejo,0,Sin cupos
+ESC012,SecureCloud Labs,Auxiliar de Seguridad Informatica,Ciberseguridad,Python|Linux|Redes|Seguridad Informatica,Hibrido,Sincelejo,1,Disponible

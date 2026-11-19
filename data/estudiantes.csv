@@ -1,0 +1,12 @@
+
+id_estudiante,nombre,programa,semestre,competencias,area_interes,modalidad_preferida,ciudad,habilitado
+EST001,Laura Martinez,Ingenieria de Sistemas,10,Python|SQL|Power BI|Excel,Analisis de Datos,Presencial,Sincelejo,Si
+EST002,Carlos Ramirez,Ingenieria de Sistemas,9,HTML|CSS|JavaScript|React,Desarrollo Web,Remoto,Sincelejo,Si
+EST003,Valentina Gomez,Ingenieria de Sistemas,10,Python|Machine Learning|SQL|Excel,Inteligencia Artificial,Hibrido,Sincelejo,Si
+EST004,Andres Torres,Ingenieria de Sistemas,9,Redes|Linux|Cisco|Seguridad Informatica,Ciberseguridad,Presencial,Sincelejo,Si
+EST005,Sofia Herrera,Ingenieria de Sistemas,10,Java|Spring Boot|SQL|Git,Desarrollo Backend,Hibrido,Sincelejo,Si
+EST006,Miguel Castro,Ingenieria de Sistemas,9,Python|SQL|Excel|Power BI,Analisis de Datos,Remoto,Sincelejo,Si
+EST007,Isabella Rojas,Ingenieria de Sistemas,10,HTML|CSS|JavaScript|Figma,Desarrollo Web,Hibrido,Sincelejo,Si
+EST008,Santiago Perez,Ingenieria de Sistemas,9,Redes|Linux|Python|Docker,Infraestructura TI,Presencial,Sincelejo,Si
+EST009,Camila Mendoza,Ingenieria de Sistemas,10,Python|Machine Learning|Power BI|SQL,Inteligencia Artificial,Remoto,Sincelejo,Si
+EST010,Daniel Ortega,Ingenieria de Sistemas,9,Java|SQL|Git|Docker,Desarrollo Backend,Presencial,Sincelejo,No

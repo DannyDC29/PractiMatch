@@ -1,0 +1,28 @@
+*.pyc
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# Variables de entorno y secretos locales
+.env
+.env.*
+*.env
+.streamlit/secrets.toml
+
+# Archivos compilados y cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Configuraciones locales de editores
+.vscode/
+.idea/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
